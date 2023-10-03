@@ -1,0 +1,6 @@
+joblib==1.2.0
+requests
+bose
+pydash
+flask
+flask_cors
